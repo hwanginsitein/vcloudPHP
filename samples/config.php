@@ -47,7 +47,7 @@ $pswd = '<please set>';
 $org = '<please set>';
 
 // SDK Version
-$sdkVersion = '<please set>';
+$sdkVersion = '5.5.0';
 
 // proxy host, optional
 $phost = null;
